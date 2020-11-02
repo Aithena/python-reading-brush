@@ -1,2 +1,1 @@
-# python-reading-brush
-阅读量刷子
+定时对指定页面进行一次浏览
